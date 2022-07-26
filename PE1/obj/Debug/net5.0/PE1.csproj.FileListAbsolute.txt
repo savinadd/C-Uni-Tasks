@@ -1,0 +1,16 @@
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.exe
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.deps.json
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.runtimeconfig.json
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.runtimeconfig.dev.json
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.dll
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\ref\PE1.dll
+C:\Users\Savina\source\repos\PE1\bin\Debug\net5.0\PE1.pdb
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.csproj.AssemblyReference.cache
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.AssemblyInfoInputs.cache
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.AssemblyInfo.cs
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.csproj.CoreCompileInputs.cache
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.dll
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\ref\PE1.dll
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.pdb
+C:\Users\Savina\source\repos\PE1\obj\Debug\net5.0\PE1.genruntimeconfig.cache

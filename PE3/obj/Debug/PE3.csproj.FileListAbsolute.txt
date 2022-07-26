@@ -1,0 +1,10 @@
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.csproj.AssemblyReference.cache
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.GuessingGameForm.resources
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.Properties.Resources.resources
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.csproj.GenerateResource.cache
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.csproj.CoreCompileInputs.cache
+C:\Users\Savina\source\repos\PE3\bin\Debug\PE3.exe.config
+C:\Users\Savina\source\repos\PE3\bin\Debug\PE3.exe
+C:\Users\Savina\source\repos\PE3\bin\Debug\PE3.pdb
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.exe
+C:\Users\Savina\source\repos\PE3\obj\Debug\PE3.pdb
